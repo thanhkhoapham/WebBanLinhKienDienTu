@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+.background {
+	background-attachment: fixed;
+	background-size: 50%;
+	background-image: url('../img/background.jpg');
+	background-repeat: no-repeat;
+	overflow: scroll;
+	background-attachment: scroll;
+}

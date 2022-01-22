@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/nhom30/config/SecurityConfig.java=UTF-8
+encoding//src/main/java/com/nhom30/service/impl/UserInfoService.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views=UTF-8
+encoding//src/main/webapp/WEB-INF/views/admin=UTF-8
+encoding//src/main/webapp/WEB-INF/views/admin/formThemLoaiSp.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/admin/formThemNguoiDung.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/admin/formThemSanPham.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/auth=UTF-8
+encoding//src/main/webapp/WEB-INF/views/common=UTF-8
+encoding//src/main/webapp/WEB-INF/views/common/admin-navbar.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/common/adv.jsp=UTF-8
+encoding/<project>=UTF-8
+encoding/src=UTF-8
